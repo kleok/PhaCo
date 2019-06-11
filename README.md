@@ -1,6 +1,6 @@
 #--------------------------------------
 # PhaCo
-Phase unwrapping errors Correction in SAR interferometry
+Phase unwrapping errors Correction in SAR interferometry.
 #--------------------------------------
 
 # Example of a command line to run the algorithm (see unwCorrector.py other input arguments)
